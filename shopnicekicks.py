@@ -2,7 +2,7 @@ import requests,json
 from discord import Webhook,Embed,RequestsWebhookAdapter
 
 def webhook_url():
-    return 'https://discordapp.com/api/webhooks/698151737491587122/lWM73-6dEjZWPDq2ufv6ulDV_YcPBll9xtTR3HutPmaOTI5eD9KVNHnJt5f8YQ93OK4k'
+    return ''
 
 def avatar_url():
     return 'https://cdn.shopify.com/s/files/1/0219/2362/files/NiceKicks_Logo_downsized_black_140x.png?v=1565118222'
