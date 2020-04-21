@@ -1,4 +1,4 @@
-import requests,json,time
+import requests,json
 from discord import Webhook,Embed,RequestsWebhookAdapter
 
 def webhook_url():
